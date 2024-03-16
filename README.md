@@ -4,4 +4,5 @@ A new Flutter project.
 
 ## playing
 
-![GIFMaker_me](https://github.com/Kbyungs/tanghouloogame/assets/86033302/1347d172-fd06-477a-a1e0-baec1622054f)
+
+![GIFMaker_me (1)](https://github.com/Kbyungs/tanghouloogame/assets/86033302/587bd75f-0c37-4f92-a60d-072297c968c9)
